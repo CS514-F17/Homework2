@@ -43,7 +43,7 @@ As a reminder, here are a few tips to get you started with the programming assig
 
 ### Submission Requirements
 
-1. Use the following link to create your private github repository for this assignment. The repository will be seeded with the skeleton code, test cases, and input files. [Lab 2]()
+1. Use the following link to create your private github repository for this assignment. The repository will be seeded with the skeleton code, test cases, and input files. [Lab 2](https://classroom.github.com/assignment-invitations/2a81c6538e9c241e5a7035b12aa12eaa)
 2. For full credit, make sure to follow all [Style Guidelines](https://github.com/CS514-F17/notes/blob/master/Admin/style.md). Points will be deducted for each violation.
 
 ### Grading Rubric
