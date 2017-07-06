@@ -1,8 +1,10 @@
-package lab2;
+package hw2;
 
 import static org.junit.Assert.*;
 
 import org.junit.Test;
+
+import hw2.StringManipulations;
 
 public class StringManipulationsTest {
 

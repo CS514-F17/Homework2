@@ -1,4 +1,4 @@
-package lab2;
+package hw2;
 
 /**
  * A class that provides several methods to manipulate strings.

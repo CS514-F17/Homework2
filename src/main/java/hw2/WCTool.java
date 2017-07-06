@@ -1,4 +1,4 @@
-package lab2;
+package hw2;
 
 import java.io.File;
 import java.io.FileNotFoundException;
